@@ -58,11 +58,13 @@ Opening the Menu:
 
 # Deactivating or Reactivating Services:
 
-Choose the "Deactivate Services" or "Reactivate Services" option from the menu.
-Enter the citizen ID when prompted.
-The system will check if the service is already in the desired state and provide feedback.
-If the citizen's services are successfully changed, a notification will be sent to the officer confirming the action.
-Notifications:
+1. Choose the "Deactivate Services" or "Reactivate Services" option from the menu.
+2. Enter the citizen ID when prompted.
+3. The system will check if the service is already in the desired state and provide feedback.
+4. If the citizen's services are successfully changed, a notification will be sent to the officer confirming the action.
+
+# Notifications:
+
 Notifications will appear based on the action taken, with success or error messages indicating if the service was deactivated/reactivated or already in the correct state.
 
 
