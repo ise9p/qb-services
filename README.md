@@ -15,8 +15,6 @@ QBCore Framework
 
 1. qb-menu `(if using Config.menu == "qb")`
 2. ox_lib `(if using Config.menu == "ox")`
-3. qb-input `(for input dialogs)`
-4. animations `(for emote animations)`
 
 # Installation:
 Place the script in your server:
