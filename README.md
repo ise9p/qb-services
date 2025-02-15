@@ -21,7 +21,7 @@ Place the script in your server:
 
 1. Copy the entire script into your server’s resource folder.
 2. Makz sure the resource is included in your server.cfg by adding:
-3. start police-services
+3. start qb-services
 
 # Ensure dependencies are installed:
 
